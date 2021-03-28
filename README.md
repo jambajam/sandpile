@@ -1,1 +1,3 @@
 # sandpile
+
+Abelian sandpile model
